@@ -120,7 +120,8 @@ Instead of the Service class depending on a concrete Database class, it depends 
 
 
 
-
+## Hashnode Link :
+https://christinejane.hashnode.dev/activity-25-solid-principles-in-angular
 
 
 
